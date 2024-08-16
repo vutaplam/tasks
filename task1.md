@@ -20,7 +20,7 @@
 * Access_key
 * Secret_key
 
-## Configure githbub secrets
+## Configure GitHub secrets
 
 * aws_access_key
 * aws_secret_key
