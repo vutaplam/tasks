@@ -1,4 +1,4 @@
-# Launch EC2 instance and attach to TG with LB
+# Write a terraform code to Launch EC2 instance and attach to TG with LB and security groups
 
 * Create Security Group
   *  open port 80
