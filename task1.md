@@ -14,6 +14,7 @@
 * Create Project
 * Create workspace
 * Generate token
+* change Default Execution Mode to local
 
 ## Generate AWS keys
 
