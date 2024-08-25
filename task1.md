@@ -12,7 +12,7 @@
 
 * Create organization
 * Create Project
-* Create workstation
+* Create workspace
 * Generate token
 
 ## Generate AWS keys
